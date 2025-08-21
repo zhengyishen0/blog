@@ -9,7 +9,7 @@ tags:
   - newsletter
 img_path: /assets/img/
 
-image: my-not-lonely-journey-preview-472c4d11.jpeg
+image: my-not-lonely-journey-preview.jpeg
 
 slug: my-not-lonely-journey
 
