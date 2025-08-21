@@ -1,19 +1,15 @@
 ---
 title: My Not Lonely Journey
-
 date: 2024-01-30T15:41:24.724000Z
-
 categories:
   - Not Lonely
 tags:
   - newsletter
 img_path: /assets/img/
-
 image: my-not-lonely-journey-preview.jpeg
-
 slug: my-not-lonely-journey
-
 subtitle: No one can overcome loneliness alone.
+pin: true
 ---
 
 > No one can overcome loneliness alone.
