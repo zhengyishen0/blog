@@ -1,34 +1,51 @@
 ---
 title: "Pause-Replay-Stop: Firewall Your Relationship"
+
 date: 2024-03-26T16:08:34.917000Z
+
 categories:
   - Relationship
 tags:
   - newsletter
 img_path: /assets/img/
+
 image: pause-replay-stop-firewall-your-relationship-preview-dcbf6c4a.png
+
 slug: pause-replay-stop-firewall-your-relationship
+
 subtitle: Mastering the art of conflict resolution.
 ---
 
 > Mastering the art of conflict resolution.
 
 Maintaining a relationship is hard. It’s even harder if you also want to be real to yourself.
+
 There’ll be friction, misunderstanding, and conflicts.
+
 Those are no good feelings.
+
 People feel anxious about them and even fear for them. So they either go all the way down to compromise all the time, or run to the other extreme and become rigid and aggressive whenever they feel threatened.
+
 So they end up either losing relationships or losing themselves.
+
 If you don’t want to be like that, this is for you.
 
 ## **An Anatomy of Conflicts**
 
 I want you to take a close look at an argument you have been through.
+
 How did it begin?
+
 99% of the time it started with tiny little things. But somehow you two just disagreed with each other on that issue and neither of you would let it go.
+
 What happened next? One of you (sometimes both) got triggered because you thought the other person was not treating you properly. And you turned on your fight or flight model.
+
 Now the house is on fire. Unless one of you is an experienced “firefighter”, the conflict would not stop until it burned something down.
+
 Do you see what’s going on there?
+
 **Disagreement >> Misunderstanding >> Damage.**
+
 That is conflict. It always starts from disagreement, escalates by misunderstanding, and ends up in damage.
 
 ## Step 1: Pause
@@ -44,9 +61,13 @@ That is conflict. It always starts from disagreement, escalates by misunderstand
 ## Step 2: Replay
 
 When there’s a conflict, there must be some issues unseen in your relationship. So you need to talk about it and grow from it.
+
 But how?
+
 By addressing the misunderstanding — even if you didn’t see it.
+
 99% of the time there’s something misunderstood between you. So if you want to do something right, that is the biggest chance you can be “right”.
+
 In case you need a template to get started. Here’s one.
 
 > _“Hey. I believe you didn’t mean the way I thought it to be, but I feel really <your emotion> after you said/did <what happened>. Can we sit down and talk about it. I don’t want to let any misunderstanding deprecidate our relationship.”_

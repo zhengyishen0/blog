@@ -1,13 +1,18 @@
 ---
 title: My Not Lonely Journey
+
 date: 2024-01-30T15:41:24.724000Z
+
 categories:
   - Not Lonely
 tags:
   - newsletter
 img_path: /assets/img/
+
 image: my-not-lonely-journey-preview-472c4d11.jpeg
+
 slug: my-not-lonely-journey
+
 subtitle: No one can overcome loneliness alone.
 ---
 
@@ -26,6 +31,7 @@ It had been five years since I was diagnosed with bipolar II disorder. Taking pi
 It's a status of being alive but dead.
 
 "I'm sick of taking this stupid pill and counting on others, expects, to fix my problem. I'd take full responsibility for my life, even if I had to go down this path alone." I talked to myself.
+
 The mind was made - and the medicine bottles were in the trash.
 
 -

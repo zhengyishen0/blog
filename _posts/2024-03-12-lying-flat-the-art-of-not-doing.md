@@ -1,13 +1,18 @@
 ---
 title: "Lying Flat: The Art of Not Doing"
+
 date: 2024-03-12T15:00:55.506000Z
+
 categories:
   - Relationship
 tags:
   - newsletter
 img_path: /assets/img/
+
 image: lying-flat-the-art-of-not-doing-preview-3e3bb0a7.png
+
 slug: lying-flat-the-art-of-not-doing
+
 subtitle: How to stop internal friction and recover from burnout
 ---
 
@@ -19,6 +24,7 @@ subtitle: How to stop internal friction and recover from burnout
 **"Once you know how to do nothing, you can achieve anything."**
 
 First of all, most people don't know how to do nothing.
+
 When you're procrastinating, you think you're doing nothing, at least you're not doing what you think you should do — work, study, or maybe housework. But let's be frank with ourselves, are you really doing nothing? No! Maybe you're watching TikTok, scrolling Instagram, or something else. But I'm sure you're doing something, and it brings tremendous dopamine to you.
 
 If you have ever tried to do completely nothing — for example sitting still for hours like those Zen monks — you will find it's 100x harder than doing anything. And that's why society uses it as a punishment for people who break the laws — free food, free accommodation, and free from doing barely anything — that's life in prison.
@@ -36,6 +42,7 @@ You're procrastinating.
 You feel anxious, depressed, and you hate yourself.
 
 Perfect. We're going to fix your problem (but may not be how you think it is).
+
 First of all, I want you to understand that procrastination is actually not a problem. **It's just a sign of misalignment — between what you want to do and what you need to do.**
 
 Think about it. Have you ever procrastinated to have meals when you're hungry? No. Never. Can you try to procrastinate a little bit when you're hungry next time? That will be hard, extremely hard especially if you're really hungry, right?
@@ -59,6 +66,7 @@ When you need to do something, you don't get the dopamine rewards until you actu
 Getting up and running at 5 am is painful, but imagining yourself doing it is joyful. So your body decides just to think about it and cash out that pleasure.
 
 See, your body never procrastinates — it always does what it needs to do and does it right away.
+
 So next time, when you procrastinate, when you have a strong sense of resistance to the things you plan to do, take a pause.
 
 Your body is sending you a strong signal: There's something wrong.

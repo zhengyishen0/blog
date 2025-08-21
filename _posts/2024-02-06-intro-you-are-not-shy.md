@@ -1,13 +1,18 @@
 ---
 title: "Intro: You're Not Shy"
+
 date: 2024-02-06T15:29:22.763000Z
+
 categories:
   - Not Lonely
 tags:
   - newsletter
 img_path: /assets/img/
+
 image: intro-youre-not-shy-preview-1aae021b.png
+
 slug: intro-you-are-not-shy
+
 subtitle: A reflection on introversion, extroversion, and personality.
 ---
 
@@ -71,6 +76,7 @@ But what if you hear someone say "I'm a battery guy, I don't use chargers. No. P
 Tell me how do you feel? What would you say to them?
 
 There's no good or better between these two choices. You'd better have both of them, don't you?
+
 I understand, there are various reasons why you choose one energy source over the other one. And it's totally fine. It means your primary energy source well-picked. But energy is such an easy-draining resource and it's always good to have an alternative as a backup plan — just like your laptop.
 
 So the bottom line is:
@@ -80,6 +86,7 @@ Don't just be introverted or extroverted.
 **Be Intra-verted** (aka "be within and without").
 
 Removing the self-limitation is the first step to unlocking deeper connections with others, and above all, your own beings.
+
 In this series, we'll introduce concepts, frameworks, and methods that will help you resume the quality connections you deserve. Some of them might be challenging to your existing beliefs. Skip them when it doesn't make sense to you. You can always come back later.
 
 This concludes the prelude of our "Not Lonely" journey. Buckle up!
