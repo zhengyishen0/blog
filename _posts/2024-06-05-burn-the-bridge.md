@@ -1,10 +1,9 @@
 ---
 title: Burn The Bridge
 date: 2024-06-05T22:23:15.763000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
+  - newsletter
 img_path: /assets/img/
 image: burn-the-bridge-preview-623086d7.png
 slug: burn-the-bridge

@@ -1,10 +1,9 @@
 ---
 title: Carry On My Friend
 date: 2024-06-25T17:32:22.408000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - web-development
+  - newsletter
 img_path: /assets/img/
 image: carry-on-my-friend-preview-6216e2f2.png
 slug: carry-on-my-friend

@@ -1,12 +1,9 @@
 ---
 title: Choose Your Suffering
 date: 2024-05-30T16:00:04.016000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - web-development
-  - 30daychallenge
+  - newsletter
 img_path: /assets/img/
 image: choose-your-suffering-preview-e8e5f248.png
 slug: choose-your-suffering

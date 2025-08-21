@@ -1,11 +1,9 @@
 ---
 title: Learn From Everyone
 date: 2024-08-14T21:21:09.739000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - book-notes
+  - newsletter
 img_path: /assets/img/
 image: learn-from-everyone-preview-0d5b2c76.png
 slug: learn-from-everyone

@@ -1,10 +1,10 @@
 ---
-title: Intro: You're Not Shy
+title: "Intro: You're Not Shy"
 date: 2024-02-06T15:29:22.763000Z
 categories:
-  - clippings
+  - Not Lonely
 tags:
-  - clippings
+  - newsletter
 img_path: /assets/img/
 image: intro-youre-not-shy-preview-1aae021b.png
 slug: intro-you-are-not-shy

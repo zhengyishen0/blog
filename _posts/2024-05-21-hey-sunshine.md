@@ -1,10 +1,9 @@
 ---
 title: Hey! Sunshine
 date: 2024-05-21T13:44:21.387000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
+  - newsletter
 img_path: /assets/img/
 image: hey-sunshine-preview-8ff3c1b7.png
 slug: hey-sunshine

@@ -1,10 +1,9 @@
 ---
 title: The Next Game
 date: 2024-07-18T11:03:01.089000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
+  - newsletter
 img_path: /assets/img/
 image: the-next-game-preview-449f0228.png
 slug: the-next-game

@@ -1,11 +1,9 @@
 ---
 title: Take Good Care
 date: 2024-07-04T23:30:22.775000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - web-development
+  - newsletter
 img_path: /assets/img/
 image: take-good-care-preview-8b8e3316.png
 slug: take-good-care

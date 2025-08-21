@@ -1,12 +1,9 @@
 ---
 title: Hello, My World!
 date: 2024-05-15T19:23:54.516000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - web-development
-  - book-notes
+  - newsletter
 img_path: /assets/img/
 image: hello-my-world-preview-ed7460a6.png
 slug: hello-my-world

@@ -1,11 +1,9 @@
 ---
 title: Joy of Life
 date: 2024-07-09T18:34:06.470000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - web-development
+  - newsletter
 img_path: /assets/img/
 image: joy-of-life-preview-2b6ee11b.png
 slug: joy-of-life

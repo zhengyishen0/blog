@@ -1,11 +1,9 @@
 ---
 title: Let Life Flow
 date: 2024-06-18T16:40:07.028000Z
-categories:
-  - clippings
+categories: []
 tags:
-  - buildinpublic
-  - 30daychallenge
+  - newsletter
 img_path: /assets/img/
 image: let-life-flow-preview-9e431c06.png
 slug: let-life-flow

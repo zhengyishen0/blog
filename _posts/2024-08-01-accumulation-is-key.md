@@ -2,10 +2,9 @@
 title: Accumulation is Key
 date: 2024-08-01T16:51:56.248000Z
 categories:
-  - clippings
+  - Wealth
 tags:
-  - buildinpublic
-  - book-notes
+  - newsletter
 img_path: /assets/img/
 image: accumulation-is-key-preview-f358c753.png
 slug: accumulation-is-key
