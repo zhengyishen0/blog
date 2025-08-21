@@ -47,6 +47,11 @@
           "name": "image",
           "type": "image",
           "isPreviewImage": true
+        },
+        {
+          "title": "subtitle",
+          "name": "subtitle",
+          "type": "string"
         }
       ]
     }
